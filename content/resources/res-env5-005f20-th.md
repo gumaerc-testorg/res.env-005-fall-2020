@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020/87ffee562b7128446476354cc616c3df_RES-ENV5-005f20-th.png
+file: /media/courses/res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020/87ffee562b7128446476354cc616c3df_RES-ENV5-005f20-th.png
 file_type: image/png
 image_metadata:
   caption: MIT's Climate Primer website summarizes the most important lines of evidence
@@ -9,6 +9,8 @@ image_metadata:
   credit: Image courtesy of Kerry Emanuel. CC BY-NC-SA
   image-alt: 'The curve of the Earth below the words "Climate Science, Risk & Solutions:
     Climate Knowledge for Everyone'
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: RES-ENV5-005f20-th.png
 uid: 87ffee56-2b71-2844-6476-354cc616c3df
