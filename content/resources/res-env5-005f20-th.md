@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020/87ffee562b7128446476354cc616c3df_RES-ENV5-005f20-th.png
+file: /courses/res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020/87ffee562b7128446476354cc616c3df_RES-ENV5-005f20-th.png
 file_type: image/png
 image_metadata:
   caption: MIT's Climate Primer website summarizes the most important lines of evidence
