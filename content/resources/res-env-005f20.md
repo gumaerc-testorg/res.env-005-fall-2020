@@ -10,6 +10,7 @@ image_metadata:
   image-alt: 'The curve of the Earth below the words "Climate Science, Risk & Solutions:
     Climate Knowledge for Everyone'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: RES-ENV-005F20.png
