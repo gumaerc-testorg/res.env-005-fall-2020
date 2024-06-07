@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external-160429b0d28241fa81ff5557cd0e46f6
+- identifier: 43de67a8-08a9-4b91-a7f4-9ebc59d29c08
   name: MIT Climate Primer website
-  url: https://climateprimer.mit.edu/
+  pageRef: /external-resources/mit-climate-primer-website_43de67a8-08a9-4b91-a7f4-9ebc59d29c08
   weight: 1000
