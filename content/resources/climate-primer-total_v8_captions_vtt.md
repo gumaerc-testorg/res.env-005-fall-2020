@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-env-005-climate-science-risk-solutions-a-climate-primer/climate-primer-total_v8_captions.vtt
+file: /courses/res-env-005-climate-science-risk-solutions-a-climate-primer/climate-primer-total_v8_captions.vtt
 file_size: 12968
 file_type: text/vtt
 image_metadata:
