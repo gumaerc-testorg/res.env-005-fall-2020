@@ -2,15 +2,14 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-env-005-climate-science-risk-solutions-a-climate-primer/climate-primer-total_v8_360p_16_9.mp4
+file: /courses/res-env-005-climate-science-risk-solutions-a-climate-primer/climate-primer-total_v8_360p_16_9.mp4
 file_size: 15885857
 file_type: video/mp4
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Course Introduction
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 'Climate Science, Risk and Solutions: The MIT Climate Primer'
