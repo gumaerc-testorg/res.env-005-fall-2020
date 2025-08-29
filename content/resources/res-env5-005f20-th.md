@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-env-005-climate-science-risk-solutions-a-climate-primer/87ffee562b7128446476354cc616c3df_RES-ENV5-005f20-th.png
+file: /ol-ocw-studio-app/courses/res-env-005-climate-science-risk-solutions-a-climate-primer/87ffee562b7128446476354cc616c3df_RES-ENV5-005f20-th.png
 file_size: 16574
 file_type: image/png
 image_metadata:
