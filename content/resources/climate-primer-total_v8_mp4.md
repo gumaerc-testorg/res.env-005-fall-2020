@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-env-005-climate-science-risk-solutions-a-climate-primer/climate-primer-total_v8_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/res-env-005-climate-science-risk-solutions-a-climate-primer/climate-primer-total_v8_360p_16_9.mp4
 file_size: 15885857
 file_type: video/mp4
 image_metadata:
